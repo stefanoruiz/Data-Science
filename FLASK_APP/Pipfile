@@ -8,9 +8,7 @@ verify_ssl = true
 [packages]
 flask = "*"
 flask-sqlalchemy = "*"
-json = "*"
-pickle = "*"
-jsonlib = "*"
+urllib = "*"
 
 [requires]
 python_version = "3.7"
